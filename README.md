@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shubh1907-debug/LeetCode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Shubh1907-debug/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shubh1907-debug/LeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Shubh1907-debug/LeetCode/tree/master/0299-bulls-and-cows) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shubh1907-debug/LeetCode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Shubh1907-debug/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shubh1907-debug/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shubh1907-debug/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shubh1907-debug/LeetCode/tree/master/0036-valid-sudoku) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shubh1907-debug/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Divide and Conquer
 |  |

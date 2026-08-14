@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shubh1907-debug/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Shubh1907-debug/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shubh1907-debug/LeetCode/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/Shubh1907-debug/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shubh1907-debug/LeetCode/tree/master/0229-majority-element-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shubh1907-debug/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Shubh1907-debug/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shubh1907-debug/LeetCode/tree/master/0054-spiral-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shubh1907-debug/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/Shubh1907-debug/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shubh1907-debug/LeetCode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Shubh1907-debug/LeetCode/tree/master/0498-diagonal-traverse) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Shubh1907-debug/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

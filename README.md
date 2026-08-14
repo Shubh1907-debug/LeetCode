@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shubh1907-debug/LeetCode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Shubh1907-debug/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shubh1907-debug/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shubh1907-debug/LeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Shubh1907-debug/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0567-permutation-in-string](https://github.com/Shubh1907-debug/LeetCode/tree/master/0567-permutation-in-string) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shubh1907-debug/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shubh1907-debug/LeetCode/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/Shubh1907-debug/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shubh1907-debug/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shubh1907-debug/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shubh1907-debug/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shubh1907-debug/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shubh1907-debug/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shubh1907-debug/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shubh1907-debug/LeetCode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |

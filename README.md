@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shubh1907-debug/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shubh1907-debug/LeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Shubh1907-debug/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0451-sort-characters-by-frequency](https://github.com/Shubh1907-debug/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Shubh1907-debug/LeetCode/tree/master/0567-permutation-in-string) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Shubh1907-debug/LeetCode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Shubh1907-debug/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Shubh1907-debug/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0451-sort-characters-by-frequency](https://github.com/Shubh1907-debug/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Shubh1907-debug/LeetCode/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubh1907-debug/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shubh1907-debug/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shubh1907-debug/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shubh1907-debug/LeetCode/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Shubh1907-debug/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0912-sort-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Shubh1907-debug/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Counting
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shubh1907-debug/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shubh1907-debug/LeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Shubh1907-debug/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0451-sort-characters-by-frequency](https://github.com/Shubh1907-debug/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Shubh1907-debug/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Shubh1907-debug/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -111,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Shubh1907-debug/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |

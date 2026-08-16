@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Shubh1907-debug/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shubh1907-debug/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/Shubh1907-debug/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0912-sort-an-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0912-sort-an-array) |
 | [1314-matrix-block-sum](https://github.com/Shubh1907-debug/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Shubh1907-debug/LeetCode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Shubh1907-debug/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -69,12 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shubh1907-debug/LeetCode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shubh1907-debug/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shubh1907-debug/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shubh1907-debug/LeetCode/tree/master/0229-majority-element-ii) |
+| [0912-sort-an-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0912-sort-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Shubh1907-debug/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Counting
 |  |
@@ -97,4 +100,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shubh1907-debug/LeetCode/tree/master/0048-rotate-image) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->

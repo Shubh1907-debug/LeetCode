@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Shubh1907-debug/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Shubh1907-debug/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0498-diagonal-traverse](https://github.com/Shubh1907-debug/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0910-smallest-range-ii](https://github.com/Shubh1907-debug/LeetCode/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0912-sort-an-array) |
 | [1314-matrix-block-sum](https://github.com/Shubh1907-debug/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Shubh1907-debug/LeetCode/tree/master/1865-finding-pairs-with-a-certain-sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shubh1907-debug/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shubh1907-debug/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Shubh1907-debug/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0910-smallest-range-ii](https://github.com/Shubh1907-debug/LeetCode/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0912-sort-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Shubh1907-debug/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Counting
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shubh1907-debug/LeetCode/tree/master/0048-rotate-image) |
+| [0910-smallest-range-ii](https://github.com/Shubh1907-debug/LeetCode/tree/master/0910-smallest-range-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Shubh1907-debug/LeetCode/tree/master/0056-merge-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0910-smallest-range-ii](https://github.com/Shubh1907-debug/LeetCode/tree/master/0910-smallest-range-ii) |
 <!---LeetCode Topics End-->

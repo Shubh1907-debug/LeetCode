@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Shubh1907-debug/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Shubh1907-debug/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0498-diagonal-traverse](https://github.com/Shubh1907-debug/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0910-smallest-range-ii](https://github.com/Shubh1907-debug/LeetCode/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0912-sort-an-array) |
 | [1314-matrix-block-sum](https://github.com/Shubh1907-debug/LeetCode/tree/master/1314-matrix-block-sum) |
@@ -155,4 +156,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

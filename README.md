@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Shubh1907-debug/LeetCode/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubh1907-debug/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shubh1907-debug/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0436-find-right-interval](https://github.com/Shubh1907-debug/LeetCode/tree/master/0436-find-right-interval) |
 | [0498-diagonal-traverse](https://github.com/Shubh1907-debug/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0735-asteroid-collision](https://github.com/Shubh1907-debug/LeetCode/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0910-smallest-range-ii](https://github.com/Shubh1907-debug/LeetCode/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0912-sort-an-array) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shubh1907-debug/LeetCode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Shubh1907-debug/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0735-asteroid-collision](https://github.com/Shubh1907-debug/LeetCode/tree/master/0735-asteroid-collision) |
 ## Math
 |  |
 | ------- |

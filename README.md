@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/Shubh1907-debug/LeetCode/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0912-sort-an-array) |
 | [1314-matrix-block-sum](https://github.com/Shubh1907-debug/LeetCode/tree/master/1314-matrix-block-sum) |
+| [1383-maximum-performance-of-a-team](https://github.com/Shubh1907-debug/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Shubh1907-debug/LeetCode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Shubh1907-debug/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Prefix Sum
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Shubh1907-debug/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0910-smallest-range-ii](https://github.com/Shubh1907-debug/LeetCode/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0912-sort-an-array) |
+| [1383-maximum-performance-of-a-team](https://github.com/Shubh1907-debug/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Shubh1907-debug/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Counting
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shubh1907-debug/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Shubh1907-debug/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0912-sort-an-array) |
+| [1383-maximum-performance-of-a-team](https://github.com/Shubh1907-debug/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 ## Merge Sort
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0910-smallest-range-ii](https://github.com/Shubh1907-debug/LeetCode/tree/master/0910-smallest-range-ii) |
+| [1383-maximum-performance-of-a-team](https://github.com/Shubh1907-debug/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 ## Binary Search
 |  |
 | ------- |

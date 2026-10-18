@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/Shubh1907-debug/LeetCode/tree/master/0038-count-and-say) |
 | [0299-bulls-and-cows](https://github.com/Shubh1907-debug/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Shubh1907-debug/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/Shubh1907-debug/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Shubh1907-debug/LeetCode/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubh1907-debug/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shubh1907-debug/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Shubh1907-debug/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Shubh1907-debug/LeetCode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Matrix
 |  |
@@ -178,4 +180,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shubh1907-debug/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Tree
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Shubh1907-debug/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Shubh1907-debug/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Shubh1907-debug/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Shubh1907-debug/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Shubh1907-debug/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->

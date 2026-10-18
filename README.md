@@ -183,14 +183,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Shubh1907-debug/LeetCode/tree/master/0100-same-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Shubh1907-debug/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Shubh1907-debug/LeetCode/tree/master/0100-same-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Shubh1907-debug/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Shubh1907-debug/LeetCode/tree/master/0100-same-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Shubh1907-debug/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 ## Binary Search Tree
 |  |
@@ -199,5 +202,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Shubh1907-debug/LeetCode/tree/master/0100-same-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Shubh1907-debug/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->

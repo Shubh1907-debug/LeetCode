@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shubh1907-debug/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0735-asteroid-collision](https://github.com/Shubh1907-debug/LeetCode/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubh1907-debug/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Array
@@ -184,11 +185,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shubh1907-debug/LeetCode/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shubh1907-debug/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Shubh1907-debug/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shubh1907-debug/LeetCode/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shubh1907-debug/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Shubh1907-debug/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 ## Breadth-First Search
 |  |
@@ -203,5 +206,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shubh1907-debug/LeetCode/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shubh1907-debug/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Shubh1907-debug/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->

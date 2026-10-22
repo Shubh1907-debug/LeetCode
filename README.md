@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Shubh1907-debug/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Shubh1907-debug/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Shubh1907-debug/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Shubh1907-debug/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubh1907-debug/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Shubh1907-debug/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Shubh1907-debug/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Shubh1907-debug/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -213,4 +215,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Shubh1907-debug/LeetCode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubh1907-debug/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Shubh1907-debug/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Shubh1907-debug/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 <!---LeetCode Topics End-->
